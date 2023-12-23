@@ -1,0 +1,40 @@
+                            body{
+    font-size: 16px;
+    background-color: cornsilk;
+}
+
+#btn{
+    margin: 15px;
+}
+
+input{
+    display: inline;
+    margin: 10px;
+}
+
+.square{
+    background-color: red;
+    position: relative;
+    width: 140px;
+    height: 140px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.inside{
+    background-color: gray;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.inner_text{
+    left: 5px;
+    color: cornsilk;
+}
+
+
+
+
